@@ -1,0 +1,18 @@
+.Todo {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(202, 202, 241);
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+}
+
+.Button {
+  background-color: lightgreen;
+}
+
+label {
+  font-size: 25px;
+}

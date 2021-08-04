@@ -1,0 +1,50 @@
+.Form {
+  color: black;
+  background-color: rgb(202, 202, 241);
+  font-size: 20px;
+  width: 100vw;
+  height: auto;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  padding: 20px;
+}
+
+.Title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.TitleLabel {
+}
+
+.TitleField {
+  height: 20px;
+  width: 25%;
+  border-radius: 8px;
+}
+
+.DescriptionLabel {
+}
+
+.DescriptionField {
+  height: 60px;
+  width: 35%;
+  resize: none;
+  border-radius: 8px;
+}
+
+.Submit {
+  background-color: lightgreen;
+  color: midnightblue;
+  border-radius: 8px;
+  width: 25%;
+  cursor: pointer;
+  padding: 14px 20px;
+  margin: 8px 0;
+}
+
+.Submit:hover {
+  background-color: #90ff90;
+}
