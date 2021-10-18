@@ -1,9 +1,10 @@
-# cottage cheese
+# Project: cottage-cheese
 
 This project will focus on:
 
-- Learn about JavaScript objects
-- Learn using JavaScript objects for state
-- Learn to use array functions in your React code
+- Learning about JavaScript objects
+- Learning about using JavaScript objects for state
+- Learning to use array functions in your React code
 
+# Access:
 Website: cottage-cheese.surge.sh
